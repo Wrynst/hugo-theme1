@@ -1,0 +1,15 @@
+#Set the theme - and format of TOML
+
+theme = ["nates", "dimension"]
+baseurl = "https://wrynst.com"
+languageCode = "en-us"
+title = "wrynst.com"
+MetaDataFormat = "toml"
+enableEmoji = true
+
+[params]
+  AuthorName = "Nathan E. Arnold"
+  GitHubUser = "wrynst"
+  copyrighthtml = "Copyright &#xA9; 2018 wrynst - All Rights Reserved."
+  SidebarRecentLimit = 5
+  Subtitle = "A record of personal discovery"

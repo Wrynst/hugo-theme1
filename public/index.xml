@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wrynst.com</title>
+    <link>https://wrynst.com/</link>
+    <description>Recent content on wrynst.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://wrynst.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2nd post</title>
+      <link>https://wrynst.com/post/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wrynst.com/post/second/</guid>
+      <description>Oh to be #2. Never able to climb the mountain of #1.</description>
+    </item>
+    
+    <item>
+      <title>First!</title>
+      <link>https://wrynst.com/post/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wrynst.com/post/first/</guid>
+      <description>This is my first post. May it be a great one! ~Nate</description>
+    </item>
+    
+  </channel>
+</rss>

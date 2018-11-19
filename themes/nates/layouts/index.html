@@ -1,0 +1,9 @@
+{{ partial "head.html" . }}
+
+{{ partial "recent_posts.html" . }}
+  
+  {{ range first 10 .Data.Pages }}    
+    <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+
+{{ partial "footer.html" . }}
